@@ -1,5 +1,5 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂周易折中
-#+DATE: 2015-09-23 09:35:21
-#+PROPERTY: JUAN 0
-
+#+DATE: 2015-08-24 21:58:33.637836
+#+PROPERTY: ID KR1a0117
+#+PROPERTY: BASEEDITION WYG    

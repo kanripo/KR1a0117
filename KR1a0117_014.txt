@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂周易折中
-#+DATE: 2015-09-23 09:35:21
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 21:58:33.963718
+#+PROPERTY: ID KR1a0117
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0117_WYG_014-1a>¶
 　欽定四庫全書¶
 御纂周易折中卷九¶
@@ -902,4 +904,3 @@
 　　(黃離/元吉)¶
 　¶
 御纂周易折中卷九¶
-

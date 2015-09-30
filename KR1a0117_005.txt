@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂周易折中
-#+DATE: 2015-09-23 09:35:21
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:58:33.720437
+#+PROPERTY: ID KR1a0117
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷首
 <pb:KR1a0117_WYG_005-1a>¶
 　欽定四庫全書¶
 御纂周易折中卷首¶
@@ -1035,4 +1037,3 @@
 　　　此類最多亦非以其爻當王也¶
 　¶
 御纂周易折中卷首¶
-

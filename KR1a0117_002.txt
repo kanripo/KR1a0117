@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂周易折中
-#+DATE: 2015-09-23 09:35:21
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:58:33.670938
+#+PROPERTY: ID KR1a0117
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 引用姓氏
 <pb:KR1a0117_WYG_002-1a>¶
 　引用姓氏¶
 　漢¶
@@ -260,6 +262,7 @@
 　　盧氏　　　(中庵/)¶
 　　郭氏　　　(鵬海/)¶
 　　游氏　　　(譲溪/)　(以上十人未詳世次或失其/名字今附於此)¶
+#+PROPERTY: JUAN 御纂周易折中總裁校對分脩校錄監造諸臣職名
 <pb:KR1a0117_WYG_002-16a>¶
 　　　奉¶
 旨開列¶
@@ -329,4 +332,3 @@
 　　總　　　　監　　　　造(臣/)李國屏¶
 　　監　造　兼　驍　騎　校(臣/)巴　實¶
 　　監　　　　　　　　　造(臣/)神　保¶
-
